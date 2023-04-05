@@ -1,0 +1,13 @@
+апр. 05, 2023 2:14:42 PM hw1.src.App loggerPropertis
+INFO: Файл log.txt успешно создан.
+апр. 05, 2023 2:14:42 PM hw1.src.App textParsing
+INFO: Строка успешно разделена.
+
+апр. 05, 2023 2:14:42 PM hw1.src.App textParsing
+INFO: Данные из строки успешно получены.
+апр. 05, 2023 2:14:42 PM hw1.src.App fileCreater
+INFO: Файл ResultText.txt успешно создан.
+апр. 05, 2023 2:14:42 PM hw1.src.App fileConverter
+INFO: Исходная строка успешно сформирована
+апр. 05, 2023 2:14:42 PM hw1.src.App fileCreater
+INFO: Файл MainText.json успешно создан.
