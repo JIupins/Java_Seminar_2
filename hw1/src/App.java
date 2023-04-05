@@ -53,7 +53,8 @@ public class App {
         String newData = "";
         try {
             students = text.split("},");
-            log.log(Level.INFO, "Строка успешно разделена.\n");
+            log.log(Level.INFO, "Строка успешно разделена.");
+            System.out.println();
             for (String note : students) {
                 String[] temp = note.split(",");
                 String[] name = temp[0].split(":");
